@@ -1,9 +1,3 @@
-# Full Stack TODO MongoDb Express React Native and Node JS
-
-## Introduction
-
-This is a Full Stack TODO app. This project is made for YouTube tutorial.
-
 ## How to run / use this project
 
 - First clone or download this project.
